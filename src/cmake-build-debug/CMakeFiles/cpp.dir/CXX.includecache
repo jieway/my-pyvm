@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/repo/my-pyvm/cpp/bufferedInputStream.hpp
+stdio.h
+-
+
+F:/repo/my-pyvm/cpp/main.cpp
+bufferedInputStream.hpp
+F:/repo/my-pyvm/cpp/bufferedInputStream.hpp
+

@@ -1,3 +1,0 @@
-F:/repo/my-pyvm/cpp/cmake-build-debug/CMakeFiles/cpp.dir
-F:/repo/my-pyvm/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/repo/my-pyvm/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
